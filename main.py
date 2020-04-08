@@ -19,4 +19,4 @@ async def on_message(message):
         print("trump talked to "+message.author.name)
         await message.channel.send(speak())
 
-client.run('Njk3NTQzNzI3MzQ1OTU5MTEy.Xo40PQ.2cPpBrczUk0BeCzYOTtX5FUOf0U')
+client.run('token')
